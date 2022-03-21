@@ -1,0 +1,47 @@
+# Irina Ivakhnenko
+## Junior Frontend Developer
+### Contacts:
+**Phone:** +38 050 15 17 664 \
+**E-mail:** ira.ivahnenko00@gmail.com \
+**Telegram:** @ira_ivakhnenko \
+[Facebook](https://www.facebook.com/IrinaIvakhnenko00)\
+[LinkedIn](https://www.linkedin.com/in/irina-ivakhnenko-5aa044183)
+### About me:
+I have already had an internship at my university based on frontend development.\
+I have the basic characteristics that are important for this job: focus on work, attention, performance, patience, knowledge, desire to achieve results.\
+I would like to be an expert at this kind of work.
+### Skills:
+- HTML/CSS
+- JavaScript Basics
+- Python Basics
+- Git
+- Figma
+### Code example:
+Convert string to camel case
+```
+function toCamelCase(str){
+  let result = '';
+ for(let i=0; i<str.length; i++){
+   if (str[i] === '-' || str[i] === '_'){
+     result += str[i+1].toUpperCase();
+     i++;
+   }
+   else {
+     result += str[i];
+   }
+ }
+  return result;
+}
+```
+### Education:
+**University:** Taras Shevchenko National University of Kyiv, Computer Science\
+
+**Courses:** 
+- [HTML Academy](https://htmlacademy.ru)
+- [JavaScript for beginners](https://ru.code-basics.com/languages/javascript)
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/ae59409dc4ea7455d945b986aa6524d7)
+
+### Languages:
+- **English -**  Pre-Intermediate
+- **Russian -** Proficient
+- **Ukrainian –** Fluent
