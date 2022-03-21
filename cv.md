@@ -10,3 +10,26 @@
 I have already had an internship at my university based on frontend development.\
 I have the basic characteristics that are important for this job: focus on work, attention, performance, patience, knowledge, desire to achieve results.\
 I would like to be an expert at this kind of work.
+### Skills:
+- HTML/CSS
+- JavaScript Basics
+- Python Basics
+- Git
+- Figma
+### Code example:
+Convert string to camel case
+```
+function toCamelCase(str){
+  let result = '';
+ for(let i=0; i<str.length; i++){
+   if (str[i] === '-' || str[i] === '_'){
+     result += str[i+1].toUpperCase();
+     i++;
+   }
+   else {
+     result += str[i];
+   }
+ }
+  return result;
+}
+```
