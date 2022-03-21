@@ -33,3 +33,22 @@ function toCamelCase(str){
   return result;
 }
 ```
+### Education:
+**University:** Taras Shevchenko National University of Kyiv, Computer Science\
+
+**Courses:** 
+- [HTML Academy](https://htmlacademy.ru)
+- [JavaScript for beginners](https://ru.code-basics.com/languages/javascript)
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/ae59409dc4ea7455d945b986aa6524d7)
+### Education:
+**University:** Taras Shevchenko National University of Kyiv, Computer Science\
+
+**Courses:** 
+- [HTML Academy](https://htmlacademy.ru)
+- [JavaScript for beginners](https://ru.code-basics.com/languages/javascript)
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/ae59409dc4ea7455d945b986aa6524d7)
+
+### Languages:
+- **English -**  Pre-Intermediate
+- **Russian -** Proficient
+- **Ukrainian –** Fluent
